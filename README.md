@@ -13,4 +13,6 @@ The Generator uses different layers to take random data and turn it into an imag
 
 Both parts use a type of math called convolutional layers to process the images. It's a bit like how the brain processes information, but in this case, it's for processing images.
 
-![image](https://github.com/VaishakhiPatel/Painting_with_GAN/assets/33623183/f4f41b23-6d87-436f-97e2-85f5b0eae9e4)]
+---
+
+![image](https://github.com/VaishakhiPatel/Painting_with_GAN/assets/33623183/f4f41b23-6d87-436f-97e2-85f5b0eae9e4)
